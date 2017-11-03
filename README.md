@@ -13,6 +13,6 @@ The simulation setup can be set in omnetpp.ini and params.h files for each proje
 
 For experiments, simply run the omnetpp.ini file and choose AODV-UU protocol. All the results are recorded in INET framework log files, or in "results.txt" in "AODV-UU/examples" folder of the project, which is user created log-file.
 
-For more questions, please contact the first or the second author of the following article:
+For more questions, please contact the first author of the following article:
 
 [1] S. Asaadi, K. Alikhademi, F. Eshghi and J. Gilbert, "TQOR: Trust-based QoS-Oriented Routing in Cognitive MANETs", proceedings of the 16th IEEE International Symposium on Network Computing and Applications (NCA 2017), Cambridge, MA USA, 2017
